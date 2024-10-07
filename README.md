@@ -39,3 +39,8 @@ Open to chat on Discord: `major.woody42`
 - Rap
 
 ## Fun Fact: I was born with only one (left) ear! Despite my limited hearing, I always try my best to fit in!
+
+## PC Specs:
+- AMD Ryzen 7 3700x
+- NVIDIA RTX 3070 8GB VRAM
+- G. Skill Trident Z NEO 2x 16GB RAM 3600mHz
