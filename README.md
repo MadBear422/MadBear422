@@ -35,6 +35,7 @@ Open to chat on Discord: `major.woody42`
 - All Things Rock (Metal, Alternative, Classic, Indie, etc.)
 - West/East Coast Hip Hop
 - Eurobeat/Eurodance
+- Latin Pop
 - J-Pop
 - Rap
 
