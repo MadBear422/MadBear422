@@ -1,6 +1,6 @@
 ## Hey! My name's Jesse! (21 Years Old, He/Him)
 I'm an outgoing and adventurous guy who always loves learning something new! <br>
-Born and raised here in California in a Mexican household; the second generation of my family to pursue higher education.
+Born and raised here in California in a Mexican household; the second generation of my family to pursue higher education. <br>
 Open to chat on Discord: `major.woody42`
 
 ## About Me:
