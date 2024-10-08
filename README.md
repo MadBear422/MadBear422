@@ -3,14 +3,24 @@ I'm an outgoing and adventurous guy who always loves learning something new! <br
 Born and raised here in California in a Mexican household; the second generation of my family to pursue higher education. <br>
 Open to chat on Discord: `major.woody42`
 
-## About Me:
-### College Student Studying:
-- Software Engineering
-- Game Development
+## 📜 Languages Proficient In
+- Python
+- Java
+- Javascript
+- C++
+- C#
+- C
+- Haxe
+- LaTeX
+
+## 🐻 About Me:
+### 🎓 College Student Studying:
+- 💻 Software Engineering
+- 🎮 Game Development
 
 - Currently working on a game!
 
-### Interests/Hobbies
+### 🔥 Interests/Hobbies
 - Gaming
 - Cooking/Baking
 - All Things Food
@@ -24,14 +34,14 @@ Open to chat on Discord: `major.woody42`
 - Camping
 - Traveling
 
-#### Top 5 Favorite Games of All Time:
+#### 🎮 Top 5 Favorite Games of All Time:
 1. Super Mario 64
 2. Banjo-Kazooie
 3. Red Dead Redemption 2
 4. Counter-Strike
 5. Super Smash Bros. Ultimate
 
-#### Music Genres I Like:
+#### 🎸 Music Genres I Like:
 - All Things Rock (Metal, Alternative, Classic, Indie, etc.)
 - West/East Coast Hip Hop
 - Eurobeat/Eurodance
@@ -39,9 +49,9 @@ Open to chat on Discord: `major.woody42`
 - J-Pop
 - Rap
 
-## Fun Fact: I was born with only one (left) ear! Despite my limited hearing, I always try my best to fit in!
+## ❗ Fun Fact: I was born with only one (left) ear! Despite my limited hearing, I always try my best to fit in!
 
-## PC Specs:
+## 🖥️ PC Specs:
 - AMD Ryzen 7 3700x
 - NVIDIA RTX 3070 8GB VRAM
 - G. Skill Trident Z NEO 2x 16GB RAM 3600mHz
