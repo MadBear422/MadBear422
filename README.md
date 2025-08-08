@@ -14,9 +14,9 @@ Open to chat on Discord: `major.woody42`
 - LaTeX
 
 ## 🐻 About Me:
-### 🎓 College Student Studying:
-- 💻 Software Engineering
-- 🎮 Game Development
+### 🎓 College Graduate:
+- 💻 B.S. Software Engineering
+- 🎮 Game Development Minor
 
 - Currently working on a game!
 
