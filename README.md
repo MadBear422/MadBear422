@@ -1,7 +1,6 @@
 ## Hey! My name's Jesse! (22 Years Old, He/Him)
 I'm just an outgoing guy who always loves learning something new! <br>
 Born and raised here in California in a Mexican household; the second generation of my family to pursue higher education. <br>
-Open to chat on Discord: `major.woody42`
 
 ## 📜 Languages Proficient In
 - Python
@@ -48,8 +47,6 @@ Open to chat on Discord: `major.woody42`
 - Latin Pop
 - J-Pop
 - Rap
-
-## ❗ Fun Fact: I was born with only one (left) ear! Despite my limited hearing, I always try my best to fit in!
 
 ## 🖥️ PC Specs:
 - AMD Ryzen 7 3700x
